@@ -15,5 +15,5 @@ Converts a number to a hexadecimal string.
 ## Example Usage
 
 ```js
-console.log(createHexStr(5046092)); // -> 4cff4c
+console.log(createHexStr(5046092)); // 4cff4c
 ```
